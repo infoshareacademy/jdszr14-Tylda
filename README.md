@@ -1,1 +1,6 @@
-# jdszr14-Tylda
+"opis projektu" 
+"struktura projektu" 
+"link do tableau" 
+"link do Jiry" 
+"co zostalo zrobione? Jakie analizy?" 
+"Authors:" 

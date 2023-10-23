@@ -1,0 +1,1 @@
+Usunięcie pliku 

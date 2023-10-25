@@ -1,3 +1,4 @@
+
  -Szczeście bez granic
 Cel: jak na przestrzeni lat zmieniał się poziom szczęścia w różnych krajach oraz co wpływało
 na wyniki
@@ -38,3 +39,4 @@ na wyniki
 ├── README.md          # Opis projektu, metodologii, linki do używanych narzędzi, autorzy itp.
 │
 └── .gitignore         # Plik, który mówi Gitowi, jakie pliki lub foldery pomijać
+=======

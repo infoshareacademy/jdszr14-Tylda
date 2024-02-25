@@ -9,13 +9,16 @@
                 którzy odeszli z firmy i ryzyka jakim obarczone są osoby, 
                 które przez dłuższy czas pozostają bez awansu.
 
+3. ML <--Sprzedawaj na górce!
+    Cel: przewidywanie cen aukcji
+			Stakeholder: początkujący inwestor, który szuka najlepszych dróg do szybkiego
+				wzbogacenia się
 
 
 Authors:
 --BRYSIAK Marcin
---STRUGALSKA Adriana
 --ZACHAREWICZ Łukasz
---FIGIEL Katarzyna
+
 
 README.md          - Struktura repo, tytuły projektów, autorzy itp.
 
